@@ -1,3 +1,3 @@
-# Machine learning
+# Artificial Intelligence
 
-Workspace for my adventures into learning machine learning
+Workspace for material, my notes and code as I traverse into the depths of the topic
