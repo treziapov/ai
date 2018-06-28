@@ -1,2 +1,3 @@
-# summarizer
-Learning project to create a text summarizer
+# Machine learning
+
+Workspace for my adventures into learning machine learning
