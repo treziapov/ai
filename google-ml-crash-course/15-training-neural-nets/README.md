@@ -26,7 +26,8 @@ Failure cases:
 Dropout regularization
     - randomly drop unit activations in a network for a single gradient step
     - the more drops the stronger the regularization
-    * 0 = no dropout regularization
-    * 1 = drop everything (model learns nothing)
-    * values between 0 and 1 = more useful
-
+    
+    0 = no dropout regularization
+    1 = drop everything (model learns nothing)
+    values between 0 and 1 = more useful
+        
