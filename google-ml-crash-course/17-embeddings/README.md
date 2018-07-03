@@ -36,3 +36,13 @@ Lack of meaningful relations between vectors
 Solution: Embeddings
 - translate large sparse vectors into a lower-dimensional space that preserves semantic relationships
 
+Standard dimensionality reduction techniques
+- principal component analysis (PCA) - used for word embeddings
+word2vec
+* used for training word embeddings
+* relies on distribution hypothesis to map semantically similar words to geometrically close embedding vectors
+* distribution hypothesis states that words which often have the same neighboring words tend to be semantically similar
+* word2vec trains a neural net to distinguish actually co-occurring groups of words from randomly grouped words
+
+Training an embedding as part of a larger model
+
